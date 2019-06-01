@@ -1,0 +1,5 @@
+*.o
+*.a
+ss2gif
+ss2gif.exe
+ss2gif-installer.exe
