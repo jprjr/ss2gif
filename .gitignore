@@ -3,3 +3,5 @@
 ss2gif
 ss2gif.exe
 ss2gif-installer.exe
+src/gui-lua.c
+src/gui-lua.h
